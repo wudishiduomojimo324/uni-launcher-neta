@@ -1,0 +1,17 @@
+# build outputs
+build/
+dist/
+
+# binaries / artifacts
+*.apk
+*.keystore
+*.idsig
+*.log
+hs_err_pid*.log
+
+# reference dumps (large / not source)
+ref/
+
+# OS
+Thumbs.db
+.DS_Store

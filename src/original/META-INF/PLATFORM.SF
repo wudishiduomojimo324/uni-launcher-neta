@@ -1,0 +1,376 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: ERwoC9QHVkwD2+Wm+bKGGKAlY9IJV00R8e4WQaCPR1E=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: hT6Sw8jSXA/s0rf/KudKIu38EkVF69kcrZneUhqxlzI=
+
+Name: DebugProbesKt.bin
+SHA-256-Digest: 2TpdbTK3Kqamv4TArXLgsRkCb7TmXpqayJR+Uaixff4=
+
+Name: META-INF/androidx.activity_activity.version
+SHA-256-Digest: /SgNjfws4Yhk4c/ZeGTsUni6PUbH4rWZfc67YSQ+5s0=
+
+Name: META-INF/androidx.annotation_annotation-experimental.version
+SHA-256-Digest: CmHU8FoGzH7UZQQ1VAATVFHRdpdMTCprKs7uHmLz/6U=
+
+Name: META-INF/androidx.arch.core_core-runtime.version
+SHA-256-Digest: Xk4gTfXbSoRbgEIAb7dJD1H+qZ+KHFOrQAuZz81pi5U=
+
+Name: META-INF/androidx.core_core-ktx.version
+SHA-256-Digest: +0D5II7TXBaS8keGLa3LA1PAwGiGWq6q2ZzE1ATjYKk=
+
+Name: META-INF/androidx.core_core.version
+SHA-256-Digest: lZIGCjpwme09DeoOlLyXs2Daiivom5JTw6Hp6kVIREg=
+
+Name: META-INF/androidx.customview_customview.version
+SHA-256-Digest: sBXfV6fOpm4gx92kOvMmYlDyT3/2yEwDvZwNUXog7ZY=
+
+Name: META-INF/androidx.exifinterface_exifinterface.version
+SHA-256-Digest: GElZpYTSzh6mo6hrY7dHabPBtLIWVHpCNxNvhYNcOzI=
+
+Name: META-INF/androidx.fragment_fragment.version
+SHA-256-Digest: iGDjkvhZfyPEdoa9OeFTvL5TySodRVveTtz+rmAKP3I=
+
+Name: META-INF/androidx.interpolator_interpolator.version
+SHA-256-Digest: cXcB/K2AKR4NBsyLxMJm/YrOYXNSLW1iPNN+HpKtyZ4=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata-core-ktx.version
+SHA-256-Digest: FPuUOH/ojSqnN+7plBJKQgyanDkvPQLlRwtSky3P7Dw=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+SHA-256-Digest: WPBt2uL0gq2e8biMFCNN9KVPKQHlazMuxnvSruF7V48=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata.version
+SHA-256-Digest: QkvfwcQFkhyzJMiFfmQzdiEh3cnOBx+DdnA0DR9BjM0=
+
+Name: META-INF/androidx.lifecycle_lifecycle-process.version
+SHA-256-Digest: H1amzUGhsqXzVHPeTJkMHOLkri1CAOJIUX57+vbBUnw=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime.version
+SHA-256-Digest: lQi6rfgvQCER7YpKEn427sradU2Mzr2Pk4hzFF7+3cQ=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.versi
+ on
+SHA-256-Digest: JMFbDePBLmrrdjFRtkAsohN/FQti38vZAVjfqPYGgXM=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+SHA-256-Digest: fqxB2l9lILAynQoWT3Yn/2XON2YDjIkXziTVL00VMTE=
+
+Name: META-INF/androidx.loader_loader.version
+SHA-256-Digest: U/8Mggt0wI0pqD9haINJnmP8D0bZQQ02nLntwOd7zfc=
+
+Name: META-INF/androidx.profileinstaller_profileinstaller.version
+SHA-256-Digest: 56yDwyxkcKujjIJ2GbQyiKWjqdb7w1dL+lDXK8YifkY=
+
+Name: META-INF/androidx.savedstate_savedstate.version
+SHA-256-Digest: oUrCOrSuWLFGZkgyZ1Kl35SmYjcht2O7omY+RLYD8JU=
+
+Name: META-INF/androidx.startup_startup-runtime.version
+SHA-256-Digest: WApCl2ZQ73cErBtpLBlMhj7v1xXQneilC5gXW/J6Ld0=
+
+Name: META-INF/androidx.tracing_tracing.version
+SHA-256-Digest: m5nVNs/LbonqguFThHKEaksaca6xCkHsPNz72IYNFTw=
+
+Name: META-INF/androidx.versionedparcelable_versionedparcelable.versio
+ n
+SHA-256-Digest: s/0pgtuKcRTX+BvAcqcODytXp6q48QathsOscGo3Zzg=
+
+Name: META-INF/androidx.viewpager_viewpager.version
+SHA-256-Digest: vU90lQInBk3t53YggAT4tlv1ISvSbqeBYu+DYpKtTeQ=
+
+Name: META-INF/androidx.window.extensions.core_core.version
+SHA-256-Digest: dI0nCjLkuXj+drgHQMdn9tn1F+BAGwzU8rPLdlXaGzg=
+
+Name: META-INF/androidx.window_window-java.version
+SHA-256-Digest: dqpdpzY1r9ratlHiVUHYZxRc8gZdEhIFte508V5L9QQ=
+
+Name: META-INF/androidx.window_window.version
+SHA-256-Digest: jAX/nBYVey/BDxkii5Bdf1USH8TPgXY/J/q7jZDPUb0=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: gGh3n9taeIQXdHdfvMPdvDEBPEbd7TyjKgDXwIDTvDM=
+
+Name: META-INF/kotlinx_coroutines_android.version
+SHA-256-Digest: 1sWRVjFisK68he5MJ/NAXhmJwHp65Bpfl4OyNo+Ei5w=
+
+Name: META-INF/kotlinx_coroutines_core.version
+SHA-256-Digest: +ue0+jgmw4ACgeJJiTuSITWDOC3/Usem5VE7mRIVkDU=
+
+Name: META-INF/services/o0
+SHA-256-Digest: atghmJ9m9Zzpc8JN+nMZzEEKile8Nwgj7Pz/XdBdQag=
+
+Name: META-INF/services/p0
+SHA-256-Digest: POBEIau3wX4G8RqQzLUPt+ug3bqe7Xqui1zCga8m7/c=
+
+Name: META-INF/version-control-info.textproto
+SHA-256-Digest: bGPYrKSsmb5tpmtltqs82gWayRJtXwCM3VXJFk8mnb8=
+
+Name: assets/dexopt/baseline.prof
+SHA-256-Digest: 0ks8370wBhqk7KY2Lbs08+ESfolmqbLSJlTFfArH/ik=
+
+Name: assets/dexopt/baseline.profm
+SHA-256-Digest: z9knIEbuYpLuCeewnj5eIB/3PqkJyaFPb9cQuYAqUpI=
+
+Name: assets/flutter_assets/AssetManifest.bin
+SHA-256-Digest: eTdeyWQajXMfPoAVPohx5Y+G29q+60M5h6Yhslc/0Xg=
+
+Name: assets/flutter_assets/FontManifest.json
+SHA-256-Digest: L/VQCH5h6YxeRYodVgBenXMSXwlja6mbrcAiA1WfH3M=
+
+Name: assets/flutter_assets/NOTICES.Z
+SHA-256-Digest: 6p74nTELPMsTY5l0EOhg03ZzBp9LEdpKhWmzAE0kleU=
+
+Name: assets/flutter_assets/NativeAssetsManifest.json
+SHA-256-Digest: OGvX2i0hCBp9bEAcGIvhLEq+Ez5mBbbVFSlZ68Mobik=
+
+Name: assets/flutter_assets/assets/art/card-map-route.svg
+SHA-256-Digest: jC5IiHISvcrz3GOIzzwC8EmmqZ8nWHtQZexNAcDctz0=
+
+Name: assets/flutter_assets/assets/art/card-map.svg
+SHA-256-Digest: aktbqHf8KnVzUa48tGtappmlZY1dZKVVMO+i1WSLPaI=
+
+Name: assets/flutter_assets/assets/art/card-tpms.svg
+SHA-256-Digest: zsWp42/aZSQlvaUGzV5jzQOU25jBeEvx3yYkALGN7hQ=
+
+Name: assets/flutter_assets/assets/art/cover.svg
+SHA-256-Digest: 9VLoPHYIQX1vVm8Xk84gtJNBQniQTC8M8u3w8KU4RAI=
+
+Name: assets/flutter_assets/assets/art/lynk-05-top-line.png
+SHA-256-Digest: 1/d5kAF3OcUVDQ9/KOq7g56UzgEfO4UrlWdUaq7DNKM=
+
+Name: assets/flutter_assets/assets/icons/air.svg
+SHA-256-Digest: FGZ7gLP/ei1PWj0fG5YCcIwO7Jz/FwslucRv/SIf5IU=
+
+Name: assets/flutter_assets/assets/icons/apps.svg
+SHA-256-Digest: yRJnb7FRXUtKUQ+8IgTYr7Zuj2YPGIsWsDs7bnDpYKU=
+
+Name: assets/flutter_assets/assets/icons/arrow-left.svg
+SHA-256-Digest: CUqMM2igVT8BjgBS5FzfEK2PvVKIXTXjANYo3bbk/ak=
+
+Name: assets/flutter_assets/assets/icons/arrow-right.svg
+SHA-256-Digest: xM9hLiGqngfzkRyoQa7pmIqZZ8b215njR9EmJNSY9RY=
+
+Name: assets/flutter_assets/assets/icons/auto-theme.svg
+SHA-256-Digest: q91zRPL6vWiGq9+/fe1aGU8VdHhc1zdMDqjWJ9kivXw=
+
+Name: assets/flutter_assets/assets/icons/back.svg
+SHA-256-Digest: iH/F5lvRaWLGC9KfKK+lmW9R0uIvwqLznlzRyzLbqfU=
+
+Name: assets/flutter_assets/assets/icons/battery.svg
+SHA-256-Digest: okU4edlw6FrOqN6poddQSvi7GqIbYV/NZeymCXX3Su0=
+
+Name: assets/flutter_assets/assets/icons/bluetooth.svg
+SHA-256-Digest: DaiXY2PaV5dtyoiCsMe+sG+qEKTmG8C9rhFq/geNoB4=
+
+Name: assets/flutter_assets/assets/icons/broom.svg
+SHA-256-Digest: RXSW8dQ1lqftzge8gGIkf1ANKfFw9ACwg5CrO8QIuDA=
+
+Name: assets/flutter_assets/assets/icons/calendar.svg
+SHA-256-Digest: B+ugLH6GhXCucNh6z+WJ1dpTeiI8lgGehWF3HWeP2W0=
+
+Name: assets/flutter_assets/assets/icons/camera-360.svg
+SHA-256-Digest: S8rz1NBfNzttQt7pwi/OK2puJ9KTjxyaRaSnvOEG98Y=
+
+Name: assets/flutter_assets/assets/icons/camera.svg
+SHA-256-Digest: JbmIOIIQD6bdrqTfnHqpbZ42q7JASjvin4ZRPAQNzzo=
+
+Name: assets/flutter_assets/assets/icons/car.svg
+SHA-256-Digest: 638j6gWab9inuj4yCr4JpBW9gtTNCjhJDncPp2LsiSc=
+
+Name: assets/flutter_assets/assets/icons/check.svg
+SHA-256-Digest: BlTHpoEpH4gxRkFxPzUHHGTXtcIBwqLlleARYm+uyPk=
+
+Name: assets/flutter_assets/assets/icons/clock.svg
+SHA-256-Digest: IN1j3lSw7/tnBqK4ShYDzlv9wfRtKHDEFgLxqMSAeCo=
+
+Name: assets/flutter_assets/assets/icons/close.svg
+SHA-256-Digest: ZkSlCBg4C8WSeA6mi/sJvMd+AGMkhEeIX4uys7vCtuY=
+
+Name: assets/flutter_assets/assets/icons/cloud.svg
+SHA-256-Digest: b5tAWr6C1wuJzwkn/KmCiZE/rYVTpCbesonsBjNw3N4=
+
+Name: assets/flutter_assets/assets/icons/defrost.svg
+SHA-256-Digest: Yso2GeT//Ps3hcvW8x9lP4YhaEcj+EkToTegGo4A9ZE=
+
+Name: assets/flutter_assets/assets/icons/edit.svg
+SHA-256-Digest: d7Wu0mD5PeTiKVWOvNJLp1tx7qcH68RfuJ/g+FJ4JII=
+
+Name: assets/flutter_assets/assets/icons/fan.svg
+SHA-256-Digest: FiHQoWqAXJWicLTGpzs1iM37yk3a8FAxMamVCVCQqCM=
+
+Name: assets/flutter_assets/assets/icons/fullscreen-diagonal.svg
+SHA-256-Digest: 1p4PgOSl17ZpWIO7UqdH6g+Qtmb8CDgbRx1hKGJp2kg=
+
+Name: assets/flutter_assets/assets/icons/heart.svg
+SHA-256-Digest: 7lb+vTg1HnMbKS9eXvIcIpbIEgxPSgNqseBuOW+OnP8=
+
+Name: assets/flutter_assets/assets/icons/home.svg
+SHA-256-Digest: JTPnElK0veVwRdUCJE5wTVGz3kkrg4zIhh4KW1mueik=
+
+Name: assets/flutter_assets/assets/icons/minus.svg
+SHA-256-Digest: HQnXiDj6hROqc4PKBqCX13vn5KRIG1sCwSV7aOzDhFA=
+
+Name: assets/flutter_assets/assets/icons/moon.svg
+SHA-256-Digest: INcc7k13ySbHAUft1Z0IX8+9/YondtB3qWqPDxzmYFI=
+
+Name: assets/flutter_assets/assets/icons/move.svg
+SHA-256-Digest: bwxmFV3weYls4G6Qr5QibqEs20h8KCuaT/mJUW+fheQ=
+
+Name: assets/flutter_assets/assets/icons/music.svg
+SHA-256-Digest: slpcEusS9QNTR5LnQgBgCCC7yqxhsp4RARyIDMAA8yU=
+
+Name: assets/flutter_assets/assets/icons/nav.svg
+SHA-256-Digest: rIJAe3gYVZMjpcMlYMZXz3cpSQoscBUKOvj3ZGt0r3c=
+
+Name: assets/flutter_assets/assets/icons/next.svg
+SHA-256-Digest: tP6lqWA/zgBaYLOKeky1l3jV/JER8geCwopIB3cBhEc=
+
+Name: assets/flutter_assets/assets/icons/pause.svg
+SHA-256-Digest: EA22m7WSzZ5qeDmb1qh8pWm0Ku5Nm0G/H5PqzYOrPgI=
+
+Name: assets/flutter_assets/assets/icons/phone.svg
+SHA-256-Digest: QKgCyFbODZEHNeb1IRy1kiRH62wpdvPyEi7XwKUcHqQ=
+
+Name: assets/flutter_assets/assets/icons/pin.svg
+SHA-256-Digest: p2ar5ubtS6BjcROUjMp+7taAnZvNf29VeZ+fSLh+r28=
+
+Name: assets/flutter_assets/assets/icons/play.svg
+SHA-256-Digest: OLID83Tcvw8LDdVKJtoNaCl+WeYCm9BnwK9+HEpNTeM=
+
+Name: assets/flutter_assets/assets/icons/plus.svg
+SHA-256-Digest: i0YNkFHllP0tXdaPf9OIF6IOMDf0Sw5TJrvHplroJvo=
+
+Name: assets/flutter_assets/assets/icons/power.svg
+SHA-256-Digest: PaWgQAF75STcyp2qUQhaByhsprbd/YTNHZsWmWXmrB4=
+
+Name: assets/flutter_assets/assets/icons/recirc.svg
+SHA-256-Digest: sAQb/XQBIM6g7gQaGOP+M5WYGpAPlAboq1d8+7jGeRI=
+
+Name: assets/flutter_assets/assets/icons/resize.svg
+SHA-256-Digest: uR8vuwhPwFA4Oiw8ZuiwqYM+etHDcliVJuoWup09wDs=
+
+Name: assets/flutter_assets/assets/icons/ride.svg
+SHA-256-Digest: F7AN+B+Lp0wUobnmYTHB7xqRtRsYB0+DqwTVa2tDnqw=
+
+Name: assets/flutter_assets/assets/icons/seat-heat.svg
+SHA-256-Digest: g4Xs1Mz5kKHIeOWoQIaf3a25CE5qYESeAPx13P8w68Q=
+
+Name: assets/flutter_assets/assets/icons/seat-vent.svg
+SHA-256-Digest: XCeCenB2DmPfF1gvZNosWwdWDxjO+Sb6YaHW0csJWio=
+
+Name: assets/flutter_assets/assets/icons/seat.svg
+SHA-256-Digest: 9HqtHMoEky0JZrNOKO2VN3ft5NfeZ6WAINN7bQzoBLw=
+
+Name: assets/flutter_assets/assets/icons/settings.svg
+SHA-256-Digest: fogx9OXBfFeY2Fe5k+6uXe4lVp+uEFBOZaj/jesjwBY=
+
+Name: assets/flutter_assets/assets/icons/signal-left.svg
+SHA-256-Digest: zmRg7Lh0SrYTe4BKabKj15T//Z64vLaz9hac3znyfzg=
+
+Name: assets/flutter_assets/assets/icons/signal-right.svg
+SHA-256-Digest: TmwWTSfio3IBxhqUviiHngAnpLQseBWbSfjx/6yVfpo=
+
+Name: assets/flutter_assets/assets/icons/signal-straight.svg
+SHA-256-Digest: ro9pPqHeAv7wshAMvcUHT+yPRGHRbw/vjBz+Io61W5M=
+
+Name: assets/flutter_assets/assets/icons/signal-uturn.svg
+SHA-256-Digest: iZku2Xwn02WkAvv1tv8Fb8l5Ea7hjJx2Xoexsm6z74k=
+
+Name: assets/flutter_assets/assets/icons/sun.svg
+SHA-256-Digest: dd9gV9HT7Istcp208h/QS5ZWD4NZXJW23peREt+g/eQ=
+
+Name: assets/flutter_assets/assets/icons/tire.svg
+SHA-256-Digest: OtHekMY2isvLN3N2j71lYqWS5NuFnfbrosvdxvGitOE=
+
+Name: assets/flutter_assets/assets/icons/traffic-light.svg
+SHA-256-Digest: 9qegA/OsB+MlKLJDGaaDii4GyhZmOc1rlihIRJczyHs=
+
+Name: assets/flutter_assets/assets/icons/trash.svg
+SHA-256-Digest: dZJy2HGc+XYoZId2Ab3ITATffvROl5GW3TIY1yx42U4=
+
+Name: assets/flutter_assets/assets/icons/turn.svg
+SHA-256-Digest: PYMHjNxGBHT4y3AbV0u2hKFTANlBzXyddM0U4MTDiQU=
+
+Name: assets/flutter_assets/assets/icons/user.svg
+SHA-256-Digest: q2kpryTtEWbO/gjnziDTvePDlkFMsIbUq4FID64qSJ0=
+
+Name: assets/flutter_assets/assets/wallpapers/coastal-mist.jpg
+SHA-256-Digest: 5Mp78JfZhLZHXW90Z2aWZ0QXcIGM+VzZxqsVDi0swps=
+
+Name: assets/flutter_assets/assets/wallpapers/digital-terrain.jpg
+SHA-256-Digest: eC9tqaWDUMKhmKUJmXtdhzTMWS394GPO5n+u6Di7Z1A=
+
+Name: assets/flutter_assets/assets/wallpapers/graphite-night.jpg
+SHA-256-Digest: 4dMSeOFzP42SHJPo187aaEtemXj1+oY/5hdOilGtnH8=
+
+Name: assets/flutter_assets/assets/wallpapers/neon-horizon.jpg
+SHA-256-Digest: w2GA4iyPWs57s6V+FNBevyXSx2vveABbEAgr2wI9O6c=
+
+Name: assets/flutter_assets/assets/wallpapers/precision-grid.jpg
+SHA-256-Digest: oIVPYAaMpSM29SQdnlhAPZFi6TCipDSIV2KjUXM56Eg=
+
+Name: assets/flutter_assets/assets/wallpapers/warm-dawn.jpg
+SHA-256-Digest: f4QPIIqsyXTlluGC19AAr/VFlK91lsSJTbkyg9i1V3o=
+
+Name: assets/flutter_assets/fonts/MaterialIcons-Regular.otf
+SHA-256-Digest: UQrzO6QYPS4u5w0qPYyhLja0iCD8u0KsCGkerDB2VuE=
+
+Name: assets/flutter_assets/shaders/ink_sparkle.frag
+SHA-256-Digest: jmZ/dyIUsPZsWOsw3MI9z8tB2BVQQHUOTqhk1F/PIQw=
+
+Name: assets/flutter_assets/shaders/stretch_effect.frag
+SHA-256-Digest: a2IlSOSljeoDy7ZcLNHg61USPwgkZZi4nUqOVIz3ivU=
+
+Name: assets/official-widgets.json
+SHA-256-Digest: mca+mjqLNT2uwwofeFnWQBvAdjJw44NRo8kf8HjTxX4=
+
+Name: assets/uni-nav-insets.apk
+SHA-256-Digest: yLbzkRer7KwzezG5//Gh3qZxW+YL/a9+lnrNWC+yp+E=
+
+Name: classes.dex
+SHA-256-Digest: 6qSL9CTfzPFOLfaMI4y/tb2sXhoj0WQ8LR8umny1fH4=
+
+Name: kotlin-tooling-metadata.json
+SHA-256-Digest: lYauA+Jx1+e/ZM/OqT8LGdk9liq0+3hMvQmMYNEGg8U=
+
+Name: kotlin/annotation/annotation.kotlin_builtins
+SHA-256-Digest: KXR0x2xbB2gHfXrgCKLdNYXEWvzUXH4fGQFju1xICCQ=
+
+Name: kotlin/collections/collections.kotlin_builtins
+SHA-256-Digest: t5WHMLwS3U0ixl9/2g8MUBw5b/48HD+tHWAudrzMd/M=
+
+Name: kotlin/concurrent/atomics/atomics.kotlin_builtins
+SHA-256-Digest: hPrKy+4YvzglSXTmddgEKMCfxXTFBiFBuK1lTRSnuAY=
+
+Name: kotlin/coroutines/coroutines.kotlin_builtins
+SHA-256-Digest: tho5PtH7UK1vQ9qri7THrzURCUQF/U8b3qHAaNhe09w=
+
+Name: kotlin/internal/internal.kotlin_builtins
+SHA-256-Digest: nsaGddaoYZJlS2LdhZ6BQaV3SAcyovUuPyB0rtXHJQw=
+
+Name: kotlin/kotlin.kotlin_builtins
+SHA-256-Digest: +/x8AsIug0Vgp2SY2b/+IBE3f7nivd+2rN0dtVfkBrA=
+
+Name: kotlin/ranges/ranges.kotlin_builtins
+SHA-256-Digest: YPaLaKWXLx/WyTKoXHA1h+UJz3HMpGKwl+mbceIMw/8=
+
+Name: kotlin/reflect/reflect.kotlin_builtins
+SHA-256-Digest: HPoId7+Uzak5tLD1UcM1lXIcKI23M2EK3Vm7lOZOyFs=
+
+Name: lib/arm64-v8a/libapp.so
+SHA-256-Digest: 6GB3D1uFFibL6Dwvaz3zUISDdaxWQUEGP6kpv1aInfs=
+
+Name: lib/arm64-v8a/libflutter.so
+SHA-256-Digest: nLtYsdN8CjweOAHixpajZWzddxpACPDMEqrFRDhZwVE=
+
+Name: res/YA.xml
+SHA-256-Digest: kWgMniIgOaCjS7n4ScN/m2Hr1l1+B1an/pTKjx9gMDM=
+
+Name: res/Zn.xml
+SHA-256-Digest: bKVocBeD4gbsUVdan8Q1gsbgtMGNw5OSg7EP+5yK4lg=
+
+Name: resources.arsc
+SHA-256-Digest: +4h0HdNEgLV/wSHDlEVU9l786p0z7Hhr9QqhCW85JDc=
+
